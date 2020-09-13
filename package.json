@@ -1,5 +1,6 @@
+
 {
-  "name": "Tech-Blog",
+  "name": "newsfeed-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -20,5 +21,6 @@
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.5"
   },
-  "devDependencies": {}
+  "devDependencies": {
+  }
 }
