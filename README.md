@@ -20,5 +20,5 @@ The user must first run the schema.sql file on their MySQL server to create the 
 
 ## Questions
 [Repo]
-[Deployed site](https://.herokuapp.com/)
+[Deployed site](https://techblog98.herokuapp.com/)
 
