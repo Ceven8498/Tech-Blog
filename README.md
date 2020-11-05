@@ -19,6 +19,6 @@ The user must first run the schema.sql file on their MySQL server to create the 
 * Handlebars
 
 ## Questions
-[Repo]
+[Repo]https://github.com/Ceven8498/Tech-Blog
 [Deployed site](https://techblog98.herokuapp.com/)
 
