@@ -43,5 +43,5 @@ Run `npm i` to install the required packages.
 
 ## Links
 ---
-[Deployedsite]https://techblog98.herokuapp.com/
+https://techblog98.herokuapp.com/
 
